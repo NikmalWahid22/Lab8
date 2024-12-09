@@ -6,7 +6,7 @@ Program ini menggunakan konsep programming berorientasi objek (OOP), yang menjad
 
 ### Penggunaan Class Program 
 
-![Gambar 1](SS)
+![Gambar 1](SS/ss1.png)
 
 class digunakan untuk membuat objek dalam pemrograman berbasis objek. Dalam program ini, akan dibuat sebuah kelas bernama Mahasiswa untuk mengelola data mahasiswa yaitu class Mahasiswa: <p>
 
@@ -33,7 +33,7 @@ def __init__(self):
 
 ### Fungsi tambah() 
 
-![Gambar 2]()
+![Gambar 2](SS/ss2.png)
 
 - Fungsi ini digunakan untuk menambahkan data mahasiswa baru ke dalam list data_mahasiswa
 
@@ -45,7 +45,7 @@ def __init__(self):
 
 ### Fungsi Tampilkan()
 
-![Gambar 3]()
+![Gambar 3](SS/ss3.png)
 
 - Fungsi ini digunakan untuk menampilkan semua data mahasiswa yang tersimpan dalam list 
 
@@ -57,7 +57,7 @@ def __init__(self):
 
 ### Fungsi hapus()
 
-![Gambar 4]()
+![Gambar 4](SS/ss4.png)
 
 - Fungsi ini digunakan untuk menghapus data mahasiswa berdasarkan nama. 
 
@@ -69,7 +69,7 @@ def __init__(self):
 
 ### Fungsi ubah()
 
-![Gambar 5]()
+![Gambar 5](SS/ss5.png)
 
 - Fungsi ini digunakan untuk mengubah data mahasiswa berdasarkan nama. 
 
@@ -81,7 +81,7 @@ def __init__(self):
 
 ### Fungsi Keluar()
 
-![Gambar 6]()
+![Gambar 6](SS/ss6.png)
 
 - Fungsi keluar() diwakili oleh pilihan 5 dalam menu utama. Fungsi ini hanya mencetak pesan "Program selesai. Terima kasih!" dan menghentikan eksekusi program.
 
@@ -90,7 +90,7 @@ def __init__(self):
 
 ### Fungsi Menu()
 
-![Gambar 7]() 
+![Gambar 7](SS/ss7.png) 
 
 - Fungsi ini bertanggung jawab untuk menampilkan menu, menerima input, dan memanggil metode yang sesuai objek. 
 
